@@ -37,14 +37,10 @@ shipping_for:
   - MediaMarkt   # retail / e-commerce
   - EspressoLab  # retail operations dashboard
   - Pegasus      # self-service kiosk screens
-also:
-  - Led a four-person frontend team
-  - Mentored engineers across consultancy timelines
-currently_learning:
-  - Python for backend services
+currently_exploring:
   - C# / .NET
-  - Azure fundamentals and cloud architecture
-  - Data structures, algorithms & system design
+  - Azure, coming from AWS
+  - MCP and agent-facing product design
 mission: |
   Building web applications end to end: the interface,
   the API contract, and the pipeline that puts them in production.
@@ -147,23 +143,6 @@ writes_at: https://www.yusufondu.com/writing
     </td>
   </tr>
 </table>
-
----
-
-## 🎯 Working Toward
-
-> Targets, not credentials. This is the plan, tracked in the open.
-
-| Goal | Track | Status |
-| :--- | :--- | :--- |
-| **GitHub Copilot** certification (GH-300) | AI-assisted engineering | 🟡 In progress |
-| **AWS Certified Developer – Associate** (DVA-C02) | Cloud foundations | 🟡 In progress |
-| **Python**, then **C# / .NET** | A second language beyond TypeScript | 🟡 In progress |
-| **Data structures, algorithms & system design** | Interview readiness | 🟡 In progress |
-| A **backend service of my own, in production** | Proof over paper | 🟡 In progress |
-| **Azure Developer Associate** (AZ-204) | Microsoft track | ⚪ Planned |
-| **Terraform Associate** | Infrastructure as code | ⚪ Planned |
-| **Kubernetes** (CKA) | Container orchestration | ⚪ Later |
 
 ---
 
