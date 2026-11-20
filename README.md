@@ -24,7 +24,7 @@ name: Yusuf Öndü
 role: Software Engineer
 company: Appcent
 location: Istanbul, Türkiye 🇹🇷
-experience: 6+ years of production web applications
+since: 2020            # shipping production web applications
 domains:
   - Fintech
   - HR Tech
