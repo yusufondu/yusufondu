@@ -167,22 +167,7 @@ writes_at: https://www.yusufondu.com/writing
 
 ---
 
-## ✍️ Latest Writing
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p>
-  <a href="https://www.yusufondu.com/writing"><img src="https://img.shields.io/badge/Read%20more-2563EB?style=for-the-badge&logo=readme&logoColor=white" /></a>
-</p>
-
----
-
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufondu&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yusufondu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -193,10 +178,6 @@ writes_at: https://www.yusufondu.com/writing
 </p>
 
 ---
-
-<p align="center">
-  <i>"The diploma says Business Administration. The commit history says otherwise."</i>
-</p>
 
 <p align="center">
   ⭐️ From <a href="https://github.com/yusufondu">yusufondu</a> &nbsp;·&nbsp; <a href="https://www.yusufondu.com">yusufondu.com</a>
