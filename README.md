@@ -24,7 +24,6 @@ name: Yusuf Öndü
 role: Software Engineer
 company: Appcent
 location: Istanbul, Türkiye 🇹🇷
-since: 2020            # shipping production web applications
 domains:
   - Fintech
   - HR Tech
@@ -60,13 +59,6 @@ writes_at: https://www.yusufondu.com/writing
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://graphql.org"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" />
-</p>
-
-### 🤖 AI & Agents
-
-<p>
-  <a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /></a>
-  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/Model%20Context%20Protocol-1F2937?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
 </p>
 
 ### 🎨 Frontend
@@ -112,6 +104,8 @@ writes_at: https://www.yusufondu.com/writing
 ### 🧪 Testing & Quality
 
 <p>
+  <a href="https://vitest.dev"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" /></a>
+  <a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" /></a>
   <a href="https://jestjs.io"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /></a>
   <a href="https://www.cypress.io"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /></a>
   <a href="https://sentry.io"><img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" /></a>
@@ -163,6 +157,11 @@ writes_at: https://www.yusufondu.com/writing
 </p>
 
 ---
+
+<p align="center">
+  <i>"Because I choose to."</i><br>
+  <sub>Neo, The Matrix Revolutions</sub>
+</p>
 
 <p align="center">
   ⭐️ From <a href="https://github.com/yusufondu">yusufondu</a> &nbsp;·&nbsp; <a href="https://www.yusufondu.com">yusufondu.com</a>
