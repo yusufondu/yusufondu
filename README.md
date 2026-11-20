@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Yusuf Öndü 👋</h1>
-<h3 align="center">💻 Software Engineer @ Appcent &nbsp;|&nbsp; ⚡ Full-stack — from the interface to the infrastructure</h3>
+<h3 align="center">💻 Software Engineer @ Appcent &nbsp;|&nbsp; ⚡ Full-stack, from the interface to the infrastructure</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2563EB&center=true&vCenter=true&width=780&lines=Shipping+production+web+apps+on+high-traffic+platforms;TypeScript+everywhere%3A+React%2C+Next.js%2C+Vue%2C+Angular;Owning+the+API+contract+and+the+pipeline+behind+it;Bozcaada+App+%E2%80%94+built+solo%2C+shipped+on+the+App+Store;Next+stop%3A+cloud+architecture+on+AWS+and+Azure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2563EB&center=true&vCenter=true&width=780&lines=Shipping+production+web+apps+on+high-traffic+platforms;TypeScript+everywhere%3A+React%2C+Next.js%2C+Vue%2C+Angular;Owning+the+API+contract+and+the+pipeline+behind+it;Fintech%2C+HR+tech%2C+telecom%2C+retail+and+aviation" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,17 +37,16 @@ shipping_for:
   - MediaMarkt   # retail / e-commerce
   - EspressoLab  # retail operations dashboard
   - Pegasus      # self-service kiosk screens
-own_product: Bozcaada App — iOS app, landing page and backoffice, built solo
 also:
   - Led a four-person frontend team
   - Mentored engineers across consultancy timelines
 currently_learning:
-  - Python — backend services
+  - Python for backend services
   - C# / .NET
   - Azure fundamentals and cloud architecture
   - Data structures, algorithms & system design
 mission: |
-  Building web applications end to end — the interface,
+  Building web applications end to end: the interface,
   the API contract, and the pipeline that puts them in production.
 writes_at: https://www.yusufondu.com/writing
 ```
@@ -119,16 +118,16 @@ writes_at: https://www.yusufondu.com/writing
 
 ---
 
-## 🚀 Featured Project
+## 🛠️ Side Project
 
 <table>
   <tr>
     <td width="60%" valign="top">
       <h3>🏝️ Bozcaada App</h3>
       <p>
-        A travel companion for the island of Bozcaada — designed, built and shipped
-        <b>solo</b>: a React Native (Expo) mobile app on the App Store, a marketing
-        landing page and a backoffice where the content is managed.
+        A React Native (Expo) app for the island of Bozcaada, published on the
+        App Store, with a landing page and a backoffice for the content.
+        Built solo.
       </p>
       <p>
         <a href="https://apps.apple.com/tr/app/bozcaada-app/id6745732968"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
@@ -143,8 +142,8 @@ writes_at: https://www.yusufondu.com/writing
         <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
-      <h4>Why it matters</h4>
-      <p>End to end: product, interface, release and the admin tooling behind it.</p>
+      <h4>Scope</h4>
+      <p>App, landing page, backoffice and the release process.</p>
     </td>
   </tr>
 </table>
@@ -153,7 +152,7 @@ writes_at: https://www.yusufondu.com/writing
 
 ## 🎯 Working Toward
 
-> Targets, not credentials — this is the plan, tracked in the open.
+> Targets, not credentials. This is the plan, tracked in the open.
 
 | Goal | Track | Status |
 | :--- | :--- | :--- |
@@ -170,7 +169,8 @@ writes_at: https://www.yusufondu.com/writing
 
 ## ✍️ Latest Writing
 
-- [**MCP-First Product Development: How Do You Know the AI Is Using Your Product Correctly?**](https://www.yusufondu.com/writing/mcp-first-product-development) — on building products that agents consume, and how you observe whether they use them right.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p>
   <a href="https://www.yusufondu.com/writing"><img src="https://img.shields.io/badge/Read%20more-2563EB?style=for-the-badge&logo=readme&logoColor=white" /></a>
@@ -195,7 +195,7 @@ writes_at: https://www.yusufondu.com/writing
 ---
 
 <p align="center">
-  <i>"Shipping is the only review that counts."</i>
+  <i>"The diploma says Business Administration. The commit history says otherwise."</i>
 </p>
 
 <p align="center">
