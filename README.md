@@ -30,12 +30,6 @@ domains:
   - Telecommunications
   - Retail & E-commerce
   - Aviation
-shipping_for:
-  - Sipay        # enterprise fintech platform
-  - Arçelik      # recipe platform + TV app
-  - MediaMarkt   # retail / e-commerce
-  - EspressoLab  # retail operations dashboard
-  - Pegasus      # self-service kiosk screens
 currently_exploring:
   - C# / .NET
   - Azure, coming from AWS
@@ -161,8 +155,4 @@ writes_at: https://www.yusufondu.com/writing
 <p align="center">
   <i>"Because I choose to."</i><br>
   <sub>Neo, The Matrix Revolutions</sub>
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/yusufondu">yusufondu</a> &nbsp;·&nbsp; <a href="https://www.yusufondu.com">yusufondu.com</a>
 </p>
